@@ -310,6 +310,7 @@ Listed in alphabetical order. No ranking or endorsement.
 - [SentinelOne Singularity Hologram](https://www.sentinelone.com/platform/singularity-hologram/) - Network decoys (formerly Attivo Networks).
 - [Thinkst Canary](https://canary.tools/) - Hardware, virtual and cloud honeypots with low-noise alerts.
 - [Tracebit](https://tracebit.com/) - Cloud and identity deception with canary resources and credentials at scale.
+- [WebDecoy API Honeypots](https://webdecoy.com/product/endpoints/) - Hosted API decoys for observing automated probes against public-facing applications.
 - [Zscaler Deception](https://www.zscaler.com/products-and-solutions/deception-technology) - Decoys and lures in the Zscaler Zero Trust platform (formerly Smokescreen).
 
 ## Communities and Events
